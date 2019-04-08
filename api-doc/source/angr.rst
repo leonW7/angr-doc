@@ -30,6 +30,7 @@ Program State
 .. automodule:: angr.state_plugins.log
 .. automodule:: angr.state_plugins.callstack
 .. automodule:: angr.state_plugins.fast_memory
+.. automodule:: angr.state_plugins.light_registers
 .. automodule:: angr.state_plugins.history
 .. automodule:: angr.state_plugins.gdb
 .. automodule:: angr.state_plugins.cgc
@@ -45,6 +46,13 @@ Program State
 .. automodule:: angr.state_plugins.javavm_classloader
 .. automodule:: angr.state_plugins.jni_references
 .. automodule:: angr.state_plugins.javavm_memory
+.. automodule:: angr.state_plugins.heap
+.. automodule:: angr.state_plugins.heap.heap_base
+.. automodule:: angr.state_plugins.heap.heap_brk
+.. automodule:: angr.state_plugins.heap.heap_freelist
+.. automodule:: angr.state_plugins.heap.heap_libc
+.. automodule:: angr.state_plugins.heap.heap_ptmalloc
+.. automodule:: angr.state_plugins.heap.utils
 
 
 Storage
